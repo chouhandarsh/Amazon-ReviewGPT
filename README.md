@@ -193,7 +193,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Darsh Chouhan**
 B.Tech – Data Science & AI, IIIT Dharwad
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
+[GitHub](https://github.com/chouhandarsh) • [LinkedIn](https://linkedin.com/in/chouhandarsh)
 
 ---
 
