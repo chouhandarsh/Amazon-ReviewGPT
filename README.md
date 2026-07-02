@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/logo.png" alt="ReviewGPT Logo" width="120"/>
+<img src="Assets/Logo.png" alt="ReviewGPT Logo" width="120"/>
 
 # 🛍️ ReviewGPT
 
