@@ -143,8 +143,6 @@ Create a `.env` file in the project root:
 HUGGINGFACE_API_KEY=your_api_key_here
 ```
 
-> ⚠️ Never commit your `.env` file. It's already excluded via `.gitignore`.
-
 ---
 
 ## ▶️ Usage
@@ -163,7 +161,11 @@ Then, in the browser window that opens:
 
 ## 📸 Demo
 
-> Add screenshots or a GIF of the application here.
+<img width="789" height="492" alt="image" src="https://github.com/user-attachments/assets/b0fdf6cf-5e4f-4599-8ced-6176fadad6c3" />
+<img width="815" height="786" alt="image" src="https://github.com/user-attachments/assets/9345ea81-5812-4677-ad12-451e22e650ae" />
+<img width="802" height="384" alt="image" src="https://github.com/user-attachments/assets/3b18fe0c-9b5d-449b-bf99-11d130ac35e3" />
+
+
 
 ---
 
